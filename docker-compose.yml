@@ -1,4 +1,4 @@
-name: billionmail
+name: "3.8"
 
 services:
     pgsql-billionmail:
